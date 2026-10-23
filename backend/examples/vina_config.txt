@@ -1,0 +1,13 @@
+receptor = examples/receptor.pdbqt
+ligand = examples/ligand.pdbqt
+
+center_x = 15.190
+center_y = 53.903
+center_z = 16.917
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+exhaustiveness = 8
+num_modes = 9
